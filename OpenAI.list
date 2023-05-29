@@ -2,9 +2,16 @@
 # AUTHOR: UpLearner
 # UPDATED: 2023-05-29 21:51:00
 # DESCRIPTION: 专门为openai设置
+# 参考: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/OpenAI/OpenAI.list
 
+DOMAIN,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-KEYWORD,openai
+
+
+
