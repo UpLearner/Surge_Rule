@@ -1,0 +1,10 @@
+# NAME: OpenAI
+# AUTHOR: UpLearner
+# UPDATED: 2023-05-29 21:51:00
+# DESCRIPTION: 专门为openai设置
+
+.auth0.com
+.identrust.com
+.openaiapi-site.azureedge.net
+.stripe.com
+.openai.com
