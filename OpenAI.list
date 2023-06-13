@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,openai
 
