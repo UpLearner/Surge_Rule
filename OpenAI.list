@@ -14,5 +14,9 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,openai
 
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,forms.hsforms.com
+
 
 
