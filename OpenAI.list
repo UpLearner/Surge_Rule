@@ -12,8 +12,9 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,chatgpt
+
 
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
