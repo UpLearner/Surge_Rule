@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
 
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
